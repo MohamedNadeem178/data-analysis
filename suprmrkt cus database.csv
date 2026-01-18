@@ -1,0 +1,21 @@
+CustomerID,FirstName,LastName,Age,Gender,Phone,Email,City,MembershipLevel
+1,John,Carter,34,M,555-1021,john.carter@email.com,New York,Gold
+2,Emily,Brown,29,F,555-1022,emily.brown@email.com,Chicago,Silver
+3,Marcus,Lee,41,M,555-1023,marcus.lee@email.com,Houston,Bronze
+4,Sophia,Gomez,26,F,555-1024,sophia.gomez@email.com,Miami,Gold
+5,Daniel,Patel,38,M,555-1025,daniel.patel@email.com,Seattle,Silver
+6,Olivia,White,33,F,555-1026,olivia.white@email.com,Denver,Gold
+7,Ethan,Miller,45,M,555-1027,ethan.miller@email.com,Boston,Bronze
+8,Ava,Robinson,22,F,555-1028,ava.robinson@email.com,Phoenix,Silver
+9,Noah,Wilson,30,M,555-1029,noah.wilson@email.com,Dallas,Gold
+10,Mia,Davis,27,F,555-1030,mia.davis@email.com,Atlanta,Bronze
+11,Liam,Anderson,36,M,555-1031,liam.anderson@email.com,San Diego,Gold
+12,Harper,Thomas,24,F,555-1032,harper.thomas@email.com,Orlando,Silver
+13,William,Harris,47,M,555-1033,william.harris@email.com,Detroit,Bronze
+14,Isabella,Clark,28,F,555-1034,isabella.clark@email.com,Nashville,Gold
+15,James,Lopez,32,M,555-1035,james.lopez@email.com,Las Vegas,Silver
+16,Charlotte,Lewis,35,F,555-1036,charlotte.lewis@email.com,Portland,Gold
+17,Benjamin,Walker,42,M,555-1037,benjamin.walker@email.com,Austin,Silver
+18,Amelia,Hall,31,F,555-1038,amelia.hall@email.com,Tampa,Bronze
+19,Henry,Young,39,M,555-1039,henry.young@email.com,Minneapolis,Gold
+20,Ella,King,25,F,555-1040,ella.king@email.com,San Jose,Silver

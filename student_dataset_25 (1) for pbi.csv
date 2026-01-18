@@ -1,0 +1,26 @@
+Student_ID,Name,Gender,Age,Math_Score,Science_Score,Attendance_%,Overall_%
+S001,Riya Sharma,Female,16,68,60,82,64
+S002,Aarav Mehta,Female,17,90,91,89,90.5
+S003,Priya Das,Male,17,86,80,84,83
+S004,Karan Verma,Male,15,70,74,87,72
+S005,Sneha Iyer,Male,17,93,75,91,84
+S006,Rohan Gupta,Male,15,94,64,95,79
+S007,Ananya Patel,Female,15,60,65,93,62.5
+S008,Ishaan Singh,Male,15,83,69,94,76
+S009,Neha Reddy,Female,16,99,67,96,83
+S010,Aditya Joshi,Male,15,77,62,95,69.5
+S011,Meera Nair,Male,15,63,84,86,73.5
+S012,Vikram Rao,Female,17,99,84,83,91.5
+S013,Diya Kapoor,Male,17,91,93,97,92
+S014,Arjun Bhat,Female,15,67,75,88,71
+S015,Sanya Khanna,Male,15,75,93,80,84
+S016,Rahul Desai,Male,16,71,76,100,73.5
+S017,Kavya Jain,Male,16,63,82,98,72.5
+S018,Yash Malhotra,Male,14,99,93,96,96
+S019,Pooja Sethi,Male,15,76,72,88,74
+S020,Tanvi Menon,Female,15,79,65,97,72
+S021,Amit Tiwari,Female,16,96,68,86,82
+S022,Simran Gill,Female,16,87,77,100,82
+S023,Nikhil Chatterjee,Female,15,62,71,89,66.5
+S024,Ritika Bose,Female,17,90,66,98,78
+S025,Manav Ghosh,Female,16,60,64,92,62

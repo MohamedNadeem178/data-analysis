@@ -1,0 +1,7 @@
+workers,in ,out,reason,wages
+worker 1,9:30 AM,4:00 PM,regular,950
+worker 2,9:00 AM,2:00 PM,coz of his health issue,600
+worker 3,9:00 AM,4:00 PM,regular,1000
+worker 4,9:00 AM,12:30 PM,halfday,500
+worker 5,9:00 AM,6:00 PM,extra tym,1300
+worker 6,9:00 AM,4:00 PM,regular,1000
