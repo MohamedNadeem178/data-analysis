@@ -1,0 +1,10 @@
+Label,Value,Type,Order
+Starting Point,0,total,1
+Sales Revenue,12000,increase,2
+Service Revenue,8000,increase,3
+Operating Costs,-5000,decrease,4
+Marketing,-2000,decrease,5
+Maintenance,-1500,decrease,6
+Subtotal Profit,16500,subtotal,7
+Taxes,-4500,decrease,8
+Final Profit,12000,total,9
